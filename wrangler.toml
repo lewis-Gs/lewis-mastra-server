@@ -1,5 +1,0 @@
-name = "lewis-mastra-server"
-main = "src/mastra/index.ts"  # 根据您的实际文件路径调整
-compatibility_date = "2025-05-19"
-
-account_id = "ffc85d8aa0642fe71cf8d1fa5b373279"
